@@ -508,6 +508,7 @@ button.btn.btn-purple {
 .admin-panel .row .dashboard-tab-content-container {
   background-color: #141319;
   height: 100%;
+  min-height: 50rem;
 }
 
 .admin-panel .row .dashboard-tab-content-container #manage-users .col-lg-6 {
